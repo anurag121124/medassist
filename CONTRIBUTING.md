@@ -19,7 +19,7 @@ By participating in this project, you agree to abide by our [Code of Conduct](CO
 
 1. **Fork and clone the repository**
    ```bash
-   git clone https://github.com/yourusername/medassist.git
+   git clone https://github.com/anurag121124/medassist
    cd medassist
    ```
 

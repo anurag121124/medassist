@@ -54,7 +54,7 @@ A comprehensive, AI-powered medical assistance platform that provides symptom ch
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/medassist.git
+   git clone https://github.com/anurag121124/medassist
    cd medassist
    ```
 
